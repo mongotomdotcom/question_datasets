@@ -8,11 +8,13 @@ Quora question dataset (sourced from: http://qim.fs.quoracdn.net/quora_duplicate
 
 ## TODO
 
+- [x] Store Quora dataset
+- [x] Store Yahoo Answers dataset
+- [x] Add travis ci
 - [ ] Finish README
 - [ ] Stop .tsv parser from deleting commas
-- [ ] Add Dockerfile?
+- [ ] Create Dockerfile?
 - [ ] Remove returns, tabs, and leading/trailing whitespace
 - [ ] Replace existing double quotes with single quotes
-- [ ] Add quotes around question
-- [ ] Store Quora dataset
+- [ ] Add quotes around questions?
 - [ ] Create standardized format guidelines

@@ -1,7 +1,7 @@
 #!/bin/bash
 set -oeE pipefail
 
-################################## README ######################################
+################################### README #####################################
 # Converts a .tsv (tab separated) file to .csv (comma separated) and will save 
 # the new file as "oldname.csv" in the same location as the input file, run:
 #   chmod +x convert_tsv_to_csv.sh
